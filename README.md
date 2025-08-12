@@ -1,4 +1,21 @@
-<!-- 13 17 23 -->
+<!-- 
+    Caro usuário que está usando meu README como base
+    para criar o seu próprio, eu autorizo o uso e fico muito feliz
+    que tenha gostado do meu README, porém peço apenas uma coisa:
+
+    Por favor, deixe uma estrela no meu README, isso me deixará muito feliz :)
+    github: https://github.com/Glauedson
+-->
+
+<!--
+    Dear user who is using my README as a base
+    to create your own, I authorize the use and am very happy
+    that you liked my README, but I kindly ask for just one thing.
+
+    Please leave a star on my README, it would make me very happy :)
+    github: https://github.com/Glauedson
+>
+
 <!-- Banner do meu perfil -->
 <a href="https://github.com/Glauedson">
   <img src="./assets/banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
@@ -109,10 +126,10 @@ Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programa
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,vite,supabase" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,kotlin,spring,postman,git" /><br>
-    <img src="https://skillicons.dev/icons?i=github,figma,vercel,notion,md" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
+    <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,notion,md" /><br>
 </div>
 
 <br/>
@@ -130,6 +147,18 @@ Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programa
   </h3></br>
 
   <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/Glauedson/MicroControladores">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=MicroControladores&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    </a>
+    <a href="https://github.com/Glauedson/RestaurantApp-AndroidStudio">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=RestaurantApp-AndroidStudio&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    </a>
+</div>
+
+
+<div align="center">
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/Glauedson/SPACED">
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=SPACED&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
@@ -137,6 +166,8 @@ Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programa
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Supla-Events&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
+
+
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -158,11 +189,10 @@ Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programa
 
 <!-- ending-->
 
+
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer"
     width="100%" 
   />
 </p>
-
-
