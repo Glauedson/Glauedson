@@ -1,27 +1,18 @@
-<!-- 
-    Caro usuário que está usando meu README como base
-    para criar o seu próprio, eu autorizo o uso e fico muito feliz
-    que tenha gostado do meu README, porém peço apenas uma coisa:
+<!--
+    Dear user using my README as a base
+    to create your own, I’m happy to authorize its use 
+    and I’m glad you liked it! I just kindly ask for one thing:
 
-    Por favor, deixe uma estrela no meu README, isso me deixará muito feliz :)
-    github: https://github.com/Glauedson
+    Please, leave a star on my README it would truly make my day :)
+    GitHub: https://github.com/Glauedson
 -->
 
-<!--
-    Dear user who is using my README as a base
-    to create your own, I authorize the use and am very happy
-    that you liked my README, but I kindly ask for just one thing.
-
-    Please leave a star on my README, it would make me very happy :)
-    github: https://github.com/Glauedson
->
-
-<!-- Banner do meu perfil -->
+<!-- Banner  -->
 <a href="https://github.com/Glauedson">
   <img src="./assets/banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
 
-<!-- Algumas metricas views/stars/followers -->
+<!--  views/stars/followers -->
 </br>
 <div align="center">
 <a href="https://github.com/Glauedson">
@@ -49,37 +40,40 @@
 <img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
 <div align="center">
 
-**Quem Sou Eu?**
+**Who Am I?**
 </div>
 
-Sou estudante de `Análise e Desenvolvimento de Sistemas` no `Instituto Federal de Ciência e Tecnologia do Ceará` **(IFCE).** Minha jornada no mundo da tecnologia começou cedo: aos 14 anos, comecei a programar pequenos jogos 3D na Unity, e logo depois mergulhei no universo dos jogos 2D com o GameMaker. Aos 15, descobri minha veia criativa e atuei como designer gráfico freelancer, o que também alimentou meu interesse por interfaces e estética visual.
+I’m a student of `Systems Analysis and Development` at the `Federal Institute of Science and Technology of Ceará` **(IFCE)**.  
+My journey in technology started early: at the age of 14, I began programming small 3D games in Unity, and soon after, I immersed myself in the world of 2D games using GameMaker.  
+At 15, I discovered my creative side and worked as a freelance graphic designer, which also fueled my passion for interfaces and visual aesthetics.
 
-Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programação. Desde então, venho dedicando meu tempo a estudar com profundidade as áreas de desenvolvimento, com foco especial em `Desenvolvimento Web Fullstack`. Apesar de estudar o ecossistema completo, meu verdadeiro ponto forte, e o que mais gosto de explorar, é o `Front-End`, onde consigo unir lógica, criatividade e design.
+When I turned 18 and entered college, I fully dove into programming.  
+Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.  
+Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is `Front-End`, where I can combine logic, creativity, and design.
  ㅤ
 </br>
 
 
 
 
-<!-- um pouco sobre mim -->
 
-<!-- Gif que fica ao lado da minha descrição simples -->
+<!-- Gif  -->
 <img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
 
-<!-- minha descrição simples -->
+<!-- A Little More About Me -->
  <h3 align="center">
   <img src="./assets/icons/user-white.svg" width=15>
-  Um Pouco Mais Sobre Mim 
+  A Little More About Me 
   <img src="./assets/icons/user-black.svg" width=15>
  </h3>
 
- ⬛ Gosto de estar cercado por pessoas mais experientes que me desafiem a crescer.</br>
- ⬜ Atualmente trabalhando em projetos com React.</br>
- ⬛ Se quiser aprender um pouco sobre Front-end, sempre estarei disposto a ajudar.</br>
- ⬜ Tenho interesse em qualquer projeto grande que me faça pensar.</br>
- ⬛ Amante do Minimalismo.
+ ⬛ I enjoy being around more experienced people who challenge me to grow.</br>
+ ⬜ Currently working on projects with React.  </br>
+ ⬛ Always willing to help anyone wanting to learn more about Front-End. </br>
+ ⬜ Interested in any large-scale project that makes me think.</br>
+ ⬛ Minimalism enthusiast.
  ㅤ
-  <!-- minhas redes e spotify --> 
+  <!-- spotify and more --> 
   <div align="center"> 
 
   <a href="https://mail.google.com/mail/?view=cm&to=glauedson18s@gmail.com" target="_blank">
@@ -99,7 +93,6 @@ Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programa
 
 
 <!-- github status-->
-<!-- Titutlo -->
 <h3 align="center">
 <img src="./assets/icons/github-white.svg" width=18>
  Github Status 
@@ -115,11 +108,11 @@ Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programa
 
 
 
-<!-- Minhas Stacks -->
-<!-- Titulo -->
+<!-- My Tech Stack -->
+
 <h3 align="center">
  <img src="./assets/icons/stack-white.svg" width=17>
- Minhas Stacks 
+ My Tech Stack
  <img src="./assets/icons/stack-black.svg" width=20>
 </h3>
 
@@ -137,12 +130,12 @@ Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programa
 
 
 
-<!-- meus melhores repositorios -->
+<!-- My Best Repositories -->
 <div align="center">
 
   <h3>
    <img src="./assets/icons/bookmark-white.svg" width="12px">
-   Meus Melhores Repositorios 
+   My Best Repositories
    <img src="./assets/icons/bookmark-black.svg" width="14px">
   </h3></br>
 
@@ -179,16 +172,6 @@ Foi aos 18, ao ingressar na faculdade, que mergulhei de vez no mundo da programa
     </a>
 </div>
 </br>
-
-<!-- conquistas 
-<h3 align="center">Minhas Conquistas</h3>
-<p align="center">
-  <img src="https://metrics.lecoq.io/Glauedson?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&plugin_achievements=1&plugin_achievements.display=compact&config.timezone=America%2FSao_Paulo" />
-</p>
--->
-
-<!-- ending-->
-
 
 <p align="center">
   <img 
