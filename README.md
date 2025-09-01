@@ -12,6 +12,7 @@
   <img src="./assets/banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
 
+
 <!--  views/stars/followers -->
 </br>
 <div align="center">
@@ -103,6 +104,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 </h3>
 <br>
 
+
 <!-- Status -->
 <div align="center">
 
@@ -126,6 +128,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
     <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
     <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,notion,md" /><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino" /><br>
 </div>
 
 <br/>
