@@ -108,10 +108,23 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 <!-- Status -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=graywhite&hide_border=true&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=graywhite&hide_border=true&locale=eng&mode=weekly)](https://git.io/streak-stats)
 </div>
 
 
+<!-- Academic Training-->
+<h3 align="center">
+<img src="./assets/icons/graduation-white.svg" width=25>
+ Academic Training
+<img src="./assets/icons/graduation-black.svg" width=25>
+</h3>
+<br>
+
+<!-- Academic Badge-->
+<div align="center">
+
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFCE%20Instituto%20Federal%20Do%20Ceará&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/Glauedson/github-readme-educational-badge)
+<div>
 
 <!-- My Tech Stack -->
 
