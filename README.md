@@ -162,8 +162,8 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
     <a href="https://github.com/Glauedson/MicroControladores">
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=MicroControladores&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
-    <a href="https://github.com/Glauedson/RestaurantApp-AndroidStudio">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=RestaurantApp-AndroidStudio&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    <a href="https://github.com/Glauedson/Lembra-Plus-task-app">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Lembra-Plus-task-app&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
     </a>
 </div>
 
@@ -172,10 +172,10 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/Glauedson/SPACED">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=SPACED&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=SPACED&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
     </a>
-    <a href="https://github.com/Glauedson/Supla-Events">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Supla-Events&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    <a href="https://github.com/Glauedson/github-readme-educational-badge">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=github-readme-educational-badge&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
 
@@ -187,7 +187,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=WhatIsTheLanguage&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
     <a href="https://github.com/Glauedson/Tapiocaria">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Tapiocaria&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Tapiocaria&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
     </a>
 </div>
 </br>
