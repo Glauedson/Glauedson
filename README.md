@@ -45,7 +45,11 @@
 
 <div align="justify">
 
-orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+I am a graduated **Software Developer** with a degree in `Systems Analysis and Development`, currently working as a **freelancer** while actively seeking an opportunity in the **technology field**. My professional journey is driven by **continuous learning**, **practical experience**, and a strong commitment to delivering **complete and functional systems** for real-world needs.
+
+Over time, I have developed **solid experience** across the **web development ecosystem**, with a strong passion for `Front-End Development`, where **logic meets creativity and visual design**. Alongside web technologies, I have expanded my skills into **mobile development**, focusing on building modern applications using `Android Studio` and `React Native`.
+
+At the moment, I am working as a **freelancer**, developing **complete systems** for companies in my city, from **planning and interface design** to **implementation and delivery**. This hands-on experience has strengthened my **problem-solving skills**, **technical versatility**, and ability to understand **business needs**, while constantly pushing me to grow as a **developer and professional**.
 
 </div>
 
@@ -87,10 +91,17 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
 > [!Caution]
 >
-> Destaques de **Observações** no readME algum teste aqui
+> Code is never finished, it only gets **better**.
 >
-> Exemplo de segunda linha nas **Observações**
+> What you see here is built with **practice**, **curiosity**, and **persistence**.
 
 </br>
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glauedson&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+
+
+
+
+<!--
+<img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
+-->
