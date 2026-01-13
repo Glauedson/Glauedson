@@ -55,6 +55,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 <!-- badges -->
 <div align="center">
   <strong>You can Click here</strong>
+  </br>
 
   <!-- Linkedin -->
   <a href="https://br.pinterest.com/Glauedson_/" target="_blank">
@@ -71,7 +72,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
           title="Total de visualizações"/>
   </a>
   <!--  -->
-  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=glauedson18s@gmail.com" target="_blank">
     <img width="97px" 
           src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" 
           alt="Visualizações no perfil"
@@ -82,9 +83,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 </br>
 
 
-<img src="./assets/icons/knife.png" width=106px align="left">
-
-
+<img src="./assets/icons/knife.png" width=106px align="right">
 
 > [!Caution]
 >
