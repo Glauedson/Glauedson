@@ -57,36 +57,43 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
   <strong>You can Click here</strong>
   </br>
 
-  <!-- Linkedin -->
+  <!-- Pinterest -->
   <a href="https://br.pinterest.com/Glauedson_/" target="_blank">
     <img width="130px" 
           src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=Pinterest&logoColor=white" 
-          alt="Visualizações no perfil"
-          title="Total de visualizações"/>
+          alt="Pinterest"
+          title="My Pinterest"/>
   </a>
-  <!--  -->
+  <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
     <img width="100px" 
           src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" 
-          alt="Visualizações no perfil"
-          title="Total de visualizações"/>
+          alt="Linkedin"
+          title="My Linkedin"/>
   </a>
-  <!--  -->
-  <a href="https://mail.google.com/mail/?view=cm&to=glauedson18s@gmail.com" target="_blank">
+  <!-- GMail  -->
+  <a href="https://mail.google.com/mail/?view=cm&to=glauedson.dev@gmail.com" target="_blank">
     <img width="97px" 
           src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" 
-          alt="Visualizações no perfil"
-          title="Total de visualizações"/>
+          alt="E-mail"
+          title="My E-mail"/>
   </a>
 
 </div>
 </br>
 
+<div width="80%">
 
-<img src="./assets/icons/knife.png" width=106px align="right">
+  <img src="./assets/icons/knife.png" width=106px align="right">
 
-> [!Caution]
->
-> Destaques de **Observações** no readME 
->
-> Exemplo de segunda linha nas **Observações**
+  > [!Caution]
+  >
+  > Destaques de **Observações** no readME 
+  >
+  > Exemplo de segunda linha nas **Observações**
+</div>
+
+
+</br>
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glauedson&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
