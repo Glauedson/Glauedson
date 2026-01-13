@@ -37,7 +37,7 @@
 </br>
 
 <!-- Who am i? -->
-<img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=330 align="left">
+<img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=370 align="left">
 <div align="center">
 
 **Who Am I?**
