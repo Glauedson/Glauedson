@@ -82,18 +82,14 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 </div>
 </br>
 
-<div width="80%">
 
-  <img src="./assets/icons/knife.png" width=106px align="right">
+<img src="./assets/icons/knife.png" width=106px align="right">
 
 > [!Caution]
 >
-> Destaques de **Observações** no readME 
+> Destaques de **Observações** no readME algum teste aqui
 >
 > Exemplo de segunda linha nas **Observações**
-
-</div>
-
 
 </br>
 
