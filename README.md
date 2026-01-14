@@ -97,7 +97,37 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
 
 </br>
 
+<!-- My contributions title -->
+<div align="center">
+<img src="./assets/images/Contributions.svg" width="60%">
+</br>
+</br>
+</div>
+
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glauedson&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+
+
+<table align="center">
+  <tr>
+    <!-- Skills Left -->
+    <td valign="top" width="45%">
+      <img src="./assets/images/Stack.svg">
+      </br>
+      </br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
+      <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
+      <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,androidstudio,arduino" /><br>
+    </td>
+    <!---->
+    <td valign="top" width="55%">
+      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=glauedson&repo=SPACED&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
+    </td>
+  </tr>
+</table>
+
 
 
 
